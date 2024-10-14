@@ -1,0 +1,139 @@
+* {
+  margin: 0;
+  padding: 0;
+  font-family: League Spartan;
+}
+p {
+  color: #161515;
+}
+.container {
+  width: 80%;
+  margin: 0 auto;
+  padding-right: 100px;
+}
+#main {
+  background: #f8f8f8;
+}
+.main {
+  display: flex;
+  align-items: center;
+  padding-left: 80px;
+}
+.main-text {
+  margin: 20px;
+}
+.main-text h6 {
+  font-weight: 300;
+  font-size: 24px;
+  line-height: 44.64px;
+}
+.main-text h1 {
+  font-weight: 300;
+  font-size: 250px;
+  margin-top: 35px;
+  line-height: 230px;
+}
+.main-text p {
+  font-weight: 300;
+  font-size: 32px;
+  line-height: 49.6px;
+  margin: 10px 0;
+}
+.main-btns {
+  display: flex;
+  margin: 35px 0;
+}
+.main-btns button {
+  font-size: 32px;
+  background: #161515;
+  color: #fff;
+  width: 278px;
+  height: 82px;
+}
+.main-btns .btn1 {
+  width: 143px;
+  height: 82px;
+  font-weight: 300;
+  font-size: 33px;
+  background: #d6d6d640;
+  color: #272727;
+}
+.qwert {
+  text-align: center;
+}
+.wert {
+  text-align: center;
+}
+.qwert-text h4 {
+  font-weight: 300;
+  font-size: 24px;
+  line-height: 44.64px;
+  margin-top: 30px;
+}
+.qwert-text h2 {
+  font-weight: 400;
+  font-size: 72px;
+  line-height: 81px;
+}
+.qwert img {
+  width: 417px;
+  height: 630px;
+  background: #f8f8f8;
+  margin-top: 30px;
+}
+.wert h1 {
+  font-weight: 400;
+  font-size: 32px;
+  line-height: 29.44px;
+  margin-top: 45px;
+}
+.wert p {
+  font-weight: 300;
+  font-size: 32px;
+  line-height: 49.6px;
+  margin-top: 15px;
+}
+.beka {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.beka img {
+  width: 496px;
+  height: 630px;
+  background: #f8f8f8;
+  margin-top: 110px;
+}
+.reo {
+  text-align: center;
+}
+.reo h1 {
+  font-weight: 400;
+  font-size: 32px;
+  margin-top: 55px;
+  line-height: 29.44px;
+}
+.reo p {
+  font-weight: 300;
+  font-size: 32px;
+  margin-top: 10px;
+  line-height: 49.6px;
+}
+.tik {
+  text-align: center;
+}
+.tik h1 {
+  font-weight: 400;
+  font-size: 32px;
+  margin-top: 10px;
+  line-height: 59.52px;
+  margin-top: 120px;
+}
+.tik p {
+  font-weight: 300;
+  font-size: 24px;
+  margin-top: 10px;
+  line-height: 40.8px;
+  margin: 20px 0 170px 0;
+}
